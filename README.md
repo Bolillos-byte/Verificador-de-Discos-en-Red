@@ -30,7 +30,7 @@ Script en Python para verificar el estado de discos duros en múltiples equipos 
 `bash
 pip install paramiko
 
-
+
 - Asegúrate de tener smartmontools instalado en los equipos remotos:
 sudo apt install smartmontools
 
